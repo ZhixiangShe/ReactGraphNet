@@ -1,0 +1,33 @@
+accuracy:
+0.685201928872815
+
+precision:
+0.6910228260520767
+
+recall:
+0.685201928872815
+
+f1_score:
+0.6860116978958045
+
+macro_auc:
+0.8391722930858498
+
+micro_auc:
+0.8297302878049153
+
+confusion_matrix:
+[[1578, 254, 239], [270, 997, 371], [477, 478, 1972]]
+
+classification_report:
+              precision    recall  f1-score   support
+
+      Labile       0.68      0.76      0.72      2071
+     Product       0.58      0.61      0.59      1638
+   Resistant       0.76      0.67      0.72      2927
+
+    accuracy                           0.69      6636
+   macro avg       0.67      0.68      0.68      6636
+weighted avg       0.69      0.69      0.69      6636
+
+
